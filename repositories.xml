@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[miny-overlay]]></name>
+    <description lang="en"><![CDATA[miny's overlay]]></description>
+    <homepage>https://github.com/miny/miny-overlay</homepage>
+    <owner type="person">
+      <email>miny@minabe.org</email>
+      <name><![CDATA[miny]]></name>
+    </owner>
+    <source type="git">git://github.com/miny/miny-overlay.git</source>
+  </repo>
+</repositories>

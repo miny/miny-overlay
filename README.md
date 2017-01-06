@@ -1,3 +1,0 @@
-# miny-overlay
-
-gentoo overlay.
